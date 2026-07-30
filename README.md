@@ -19,3 +19,9 @@ End-to-end Business Intelligence project that transforms raw retail sales data i
 - Documented the complete analytics workflow following the Google Data Analytics process.
 
 🔗 **Repository:** https://github.com/chuchoolver/Global-Retail-DA-by-Jesus
+
+<p align="center">
+  <img src="https://github.com/chuchoolver/Global-Retail-DA-by-Jesus/blob/main/Images/analyze/dashboard_analyze.gif?raw=true"
+       alt="Global Retail Analytics Dashboard"
+       width="900">
+</p>
