@@ -20,8 +20,21 @@ End-to-end Business Intelligence project that transforms raw retail sales data i
 
 🔗 **Repository:** https://github.com/chuchoolver/Global-Retail-DA-by-Jesus
 
-<p align="center">
-  <img src="https://github.com/chuchoolver/Global-Retail-DA-by-Jesus/blob/main/Images/analyze/dashboard_analyze.gif?raw=true"
-       alt="Global Retail Analytics Dashboard"
-       width="900">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/chuchoolver/Global-Retail-DA-by-Jesus/blob/main/Images/analyze/dashboard_analyze.gif?raw=true"
+           alt="Executive Overview"
+           width="450">
+      <br>
+      <sub><b>Executive Overview</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/chuchoolver/Global-Retail-DA-by-Jesus/blob/main/Images/analyze/dashboard_insight.gif?raw=true"
+           alt="Business Insights"
+           width="450">
+      <br>
+      <sub><b>Business Insights</b></sub>
+    </td>
+  </tr>
+</table>
