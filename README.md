@@ -1,4 +1,4 @@
-# Hi, I'm Jesús Olvera 👋
+# Hi, I'm Jesús Olvera 👽
 
 ### Data Analyst | Business Intelligence
 
@@ -57,5 +57,33 @@ End-to-end Business Intelligence project that transforms raw retail sales data i
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+I'm continuously expanding my knowledge in Data Analytics and Business Intelligence. Currently, I'm focusing on:
+
+- 📊 Advanced Power BI
+- 🗄️ Advanced SQL & Query Optimization
+- 🐍 Python for Data Analysis
+- 📈 Data Visualization Best Practices
+- ☁️ Microsoft Fabric (Learning Roadmap)
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/jesusisoltr/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:jesusisoltr@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </p>
