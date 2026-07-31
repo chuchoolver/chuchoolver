@@ -4,9 +4,9 @@
 
 I'm focused on transforming data into actionable business insights through data analysis, visualization, and Business Intelligence solutions.
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🌍 Global Retail Analytics Dashboard
+### 🌍 Global Retail Analytics Dashboard 
 
 End-to-end Business Intelligence project that transforms raw retail sales data into actionable business insights using SQL Server, Power BI, DAX, and Power Query.
 
@@ -38,6 +38,17 @@ End-to-end Business Intelligence project that transforms raw retail sales data i
     </td>
   </tr>
 </table>
+
+##
+### 🐍 Retail Sales Analytics with Python | EDA
+
+End-to-end exploratory data analysis using Python to uncover sales trends, customer behavior, and profitability insights.
+
+**Tech Stack:** Python • Pandas • NumPy • Plotly
+
+📂 Repository: https://github.com/chuchoolver/Retail-Sales-Analytics-with-Python
+
+📓 Kaggle Notebook: https://www.kaggle.com/code/chuchoolver/retail-sales-analytics-dashboard-python-eda
 
 ---
 
