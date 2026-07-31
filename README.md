@@ -46,6 +46,18 @@ End-to-end exploratory data analysis using Python to uncover sales trends, custo
 
 **Tech Stack:** Python • Pandas • NumPy • Plotly
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/chuchoolver/Retail-Sales-Analytics-with-Python/blob/main/images/profit.gif?raw=true"
+           alt="Discount vs Profit"
+           width="450">
+      <br>
+      <sub><b>Discount vs Profit</b></sub>
+    </td>
+  </tr>
+</table>
+
 📂 Repository: https://github.com/chuchoolver/Retail-Sales-Analytics-with-Python
 
 📓 Kaggle Notebook: https://www.kaggle.com/code/chuchoolver/retail-sales-analytics-dashboard-python-eda
