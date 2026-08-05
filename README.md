@@ -4,9 +4,9 @@
 
 I'm focused on transforming data into actionable business insights through data analysis, visualization, and Business Intelligence solutions.
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌍 Global Retail Analytics Dashboard 
+### Global Retail Analytics Dashboard 
 
 End-to-end Business Intelligence project that transforms raw retail sales data into actionable business insights using SQL Server, Power BI, DAX, and Power Query.
 
@@ -40,7 +40,7 @@ End-to-end Business Intelligence project that transforms raw retail sales data i
 </table>
 
 ##
-### 🐍 Retail Sales Analytics with Python | EDA
+### Retail Sales Analytics with Python | EDA
 
 End-to-end exploratory data analysis using Python to uncover sales trends, customer behavior, and profitability insights.
 
@@ -58,13 +58,13 @@ End-to-end exploratory data analysis using Python to uncover sales trends, custo
   </tr>
 </table>
 
-📂 Repository: https://github.com/chuchoolver/Retail-Sales-Analytics-with-Python
+ Repository: https://github.com/chuchoolver/Retail-Sales-Analytics-with-Python
 
-📓 Kaggle Notebook: https://www.kaggle.com/code/chuchoolver/retail-sales-analytics-dashboard-python-eda
+Kaggle Notebook: https://www.kaggle.com/code/chuchoolver/retail-sales-analytics-dashboard-python-eda
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
 
@@ -85,19 +85,19 @@ End-to-end exploratory data analysis using Python to uncover sales trends, custo
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 I'm continuously expanding my knowledge in Data Analytics and Business Intelligence. Currently, I'm focusing on:
 
-- 📊 Advanced Power BI
-- 🗄️ Advanced SQL & Query Optimization
-- 🐍 Python for Data Analysis
-- 📈 Data Visualization Best Practices
-- ☁️ Microsoft Fabric (Learning Roadmap)
+-  Advanced Power BI
+-  Advanced SQL & Query Optimization
+-  Python for Data Analysis
+-  Data Visualization Best Practices
+-  Microsoft Fabric (Learning Roadmap)
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="left">
 
